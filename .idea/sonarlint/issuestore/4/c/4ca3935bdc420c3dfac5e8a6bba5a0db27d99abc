@@ -1,0 +1,13 @@
+
+Q
+java:S3740P"/Provide the parametrized type for this generic.(ÑÍ¿úÿÿÿÿ8‹˜¦¹½1
+\
+java:S22599"?A "NullPointerException" could be thrown; "t" is nullable here.(ÙÚ«¥8—˜¦¹½1
+A
+java:S20973"Add a type test to this method.(¥Ìí¥ıÿÿÿÿ8˜¦¹½1
+a
+java:S2147G"DCombine this catch with the one at line 67, which has the same body.(ï–óô8Ÿ˜¦¹½1
+c
+java:S1126;"AReplace this if-then-else statement by a single return statement.(Íü‡“øÿÿÿÿ8Ÿ˜¦¹½1
+v
+java:S1210S"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8Ÿ˜¦¹½1

@@ -1,0 +1,27 @@
+
+K
+java:S11218".Extract the assignment out of this expression.(áÅÏ®8÷ç‰‹¾1
+t	java:S1278"XRefactor the code in order to not assign to this loop counter from within the loop body.(áÅÏ®8÷ç‰‹¾1
+t	java:S1278"XRefactor the code in order to not assign to this loop counter from within the loop body.(áÅÏ®8÷ç‰‹¾1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀŸÑ
+R
+java:S1854
+"5Remove this useless assignment to local variable "a".(²¯÷Œ8„é‰‹¾1
+G
+java:S1197
+"*Move the array designators [] to the type.(²¯÷Œ8„é‰‹¾1
+C
+java:S1481
+"&Remove this unused "a" local variable.(²¯÷Œ8”é‰‹¾1
+R
+java:S1854+"5Remove this useless assignment to local variable "e".(êá‘Ð8”é‰‹¾1
+`
+java:S1659'">Declare "b" and all following declarations on a separate line.(ÀÏ‰âþÿÿÿÿ8”é‰‹¾1
+`
+java:S1659*">Declare "q" and all following declarations on a separate line.(…œš•þÿÿÿÿ8¤é‰‹¾1
+L
+java:S1874)"0Remove this use of "getBytes"; it is deprecated.(£ÄÿB8¤é‰‹¾1
+H
+java:S1481*"&Remove this unused "e" local variable.(…œš•þÿÿÿÿ8¤é‰‹¾1
+H
+java:S1481*"&Remove this unused "q" local variable.(…œš•þÿÿÿÿ8¤é‰‹¾1

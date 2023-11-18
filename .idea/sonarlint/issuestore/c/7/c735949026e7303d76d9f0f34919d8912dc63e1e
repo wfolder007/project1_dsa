@@ -1,0 +1,10 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÛÍş£8¢±é¢¼1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀŸÑ8¢±é¢¼1
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(îß…Ê8²±é¢¼1
+L
+java:S1197"*Move the array designators [] to the type.(¹÷Ì¾ùÿÿÿÿ8Â±é¢¼1
+L
+java:S1197"*Move the array designators [] to the type.(øÛÙšøÿÿÿÿ8Â±é¢¼1

@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ûã8îÁËÈ¼1
+L
+java:S1197"*Move the array designators [] to the type.(ÑÂÉ½ÿÿÿÿÿ8…ÂËÈ¼1
+G
+java:S1197"*Move the array designators [] to the type.(’ùåÁ8ˆÂËÈ¼1
+A
+java:S1659"Declare "e" on a separate line.(®ƒµçøÿÿÿÿ8ˆÂËÈ¼1
+S
+java:S5261"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ8ˆÂËÈ¼1
